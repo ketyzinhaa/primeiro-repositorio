@@ -1,5 +1,18 @@
 body {
-    background-color: darkorchid;
+    
+}
+
+img {
+    width: 100%;
+}
+
+.apresentacao {
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
 }
 
 p {
@@ -8,13 +21,15 @@ p {
 }
 
 em strong {
-    color: black;
+    color: red;
 }
 
+.beneficios {
+background-color: aliceblue;
+    padding: 20px;
 
+}
 
-
-
-em strong {
-    
+h2 {
+    text-align: center;
 }
